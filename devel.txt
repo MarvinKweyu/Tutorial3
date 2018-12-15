@@ -1,4 +1,4 @@
 Development stuff
 
-MarvinKweyu is developing new stuff on development branch.Writing new code
+MarvinKweyu2 accidentally changed the devel.txt on master.I meant these changes
 
