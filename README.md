@@ -1,4 +1,4 @@
 # Tutorial3
 
-I am MarvinKweyu
+A practice repo for learning git 
 
